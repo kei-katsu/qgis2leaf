@@ -105,4 +105,7 @@ def layerlist():
 		'OpenWeatherMap Snow':'http://{s}.tile.openweathermap.org/map/snow/{z}/{x}/{y}.png',\
 		'META': 'Map data &copy; <a href="http://openweathermap.org">OpenWeatherMap</a>'
 		}]
+		'GSIMap':'http://{s}.cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png',\
+		'META': 'Map data &copy; <a href="http://http://www.gsi.go.jp/">GSIJ</a>'
+		}]
 	return dictionary
